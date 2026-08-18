@@ -1,18 +1,28 @@
-## Olá! Eu sou o Patrick Bonze 👋
+# Hi, I'm Patrick Bonze 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNIASSELVI)  
-💻 Em formação como Desenvolvedor Full Stack (JS, TS, Node, React)  
-🚀 Buscando oportunidades para crescer na área de tecnologia  
-📚 Apaixonado por aprender e criar projetos úteis!
+🎓 Systems Analysis and Development student at UNIASSELVI  
+💻 Full Stack Developer in training, focused on JavaScript and TypeScript  
+🚀 Currently seeking internship opportunities in software development  
+📚 Always learning, building projects, and improving my skills
 
-### 🛠️ Tecnologias que estou aprendendo:
+## 🛠️ Technologies & Tools
 
-- HTML5, CSS3, JavaScript
-- TypeScript, React, Node.js
-- Git e GitHub
-- ### 📌 Projetos em destaque:
-- [Cópia de Landing Page (Estudo)](https://github.com/patrii-bonze/pagina-html-css) – Exercício de prática em HTML/CSS inspirado em uma landing page do Webflow
+- HTML5 & CSS3
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Express
+- REST APIs
+- SQL & NoSQL Databases
+- Git & GitHub
 
-- ### 📫 Como me encontrar:
-- ✉️ E-mail: Patricksoares8@outlook.com
-- 💼 [LinkedIn] https://www.linkedin.com/in/patrick-bonze-45abb024a/
+## 📌 Featured Projects
+
+### Web Development Project – HTML & CSS
+A web development practice project built with HTML5 and CSS3, based on a visual layout inspired by Webflow. The project focused on semantic HTML, page structure, CSS styling, layout organization, and responsive web design.
+
+## 📫 Contact
+
+- 📧 Email: Patricksoares8@outlook.com
+- 💼 LinkedIn: [Patrick Bonze](https://www.linkedin.com/in/patrick-bonze-45abb024a/)
